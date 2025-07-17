@@ -1,7 +1,8 @@
 Biclustering package used: https://github.com/nikitasigal/biclustlib
 
 ## Characterizing Adrenal Cancer Patients Using Gene Patterns Biclustering Methods
-Abstract
+# Abstract
+
 For this data mining research project, our goal was to determine if there were any distinct
 biological and survival markers that distinguish adrenal cancer patients based on their gene
 expression patterns. To complete this task, a biclustering algorithm known as Iterative Signature
