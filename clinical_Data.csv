@@ -1,0 +1,272 @@
+,Composite Element REF,yearstobirth,vitalstatus,daystodeath,daystolastfollowup,tumortissuesite,gender,dateofinitialpathologicdiagnosis,radiationtherapy,karnofskyperformancescore,histologicaltype,numberoflymphnodes,race,ethnicity,pathologicstage,pathologyTstage,pathologyNstage,pathologyMstage,residualtumor
+TCGA-QR-A6GU,value,31,0,,1791,adrenal gland,male,2008,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6GZ,value,31,0,,928,adrenal gland,male,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6H1,value,55,0,,431,adrenal gland,male,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6ZZ,value,30,0,,48,adrenal gland,female,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A700,value,67,0,,978,adrenal gland,male,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A703,value,23,0,,1167,adrenal gland,male,2008,no,,pheochromocytoma,,white,,,,,,
+TCGA-QR-A705,value,63,0,,317,extra-adrenal site,female,2010,no,,paraganglioma; extra-adrenal pheochromocytoma,0,white,,,,,,
+TCGA-QR-A70D,value,39,0,,7,extra-adrenal site,female,2012,no,,paraganglioma,0,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A70O,value,35,0,,111,adrenal gland,female,2013,no,,pheochromocytoma,,white,hispanic or latino,,,,,
+TCGA-QR-A70P,value,45,1,3563,,extra-adrenal site,female,2004,yes,,paraganglioma,0,white,not hispanic or latino,,,,,
+TCGA-QR-A70T,value,40,0,,267,extra-adrenal site,female,2011,no,,paraganglioma,0,black or african american,not hispanic or latino,,,,,
+TCGA-RW-A68A,value,19,0,,762,adrenal gland,female,2012,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A68B,value,31,0,,727,adrenal gland,male,2013,no,,pheochromocytoma,,,,,,,,
+TCGA-RW-A68F,value,51,0,,1354,adrenal gland,female,2010,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A68G,value,49,0,,1274,adrenal gland,male,2011,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A7CZ,value,72,0,,422,extra-adrenal site,female,2013,no,,paraganglioma; extra-adrenal pheochromocytoma,,white,,,,,,
+TCGA-S7-A7WQ,value,19,0,,820,adrenal gland,male,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WU,value,63,0,,928,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7X1,value,23,0,,576,adrenal gland,male,2013,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SP-A6QH,value,35,0,,2203,adrenal gland,female,2008,no,,pheochromocytoma,,asian,not hispanic or latino,,,,,
+TCGA-SR-A6MR,value,41,0,,2409,extra-adrenal site,male,2007,no,90,paraganglioma,0,white,not hispanic or latino,,,,,
+TCGA-SR-A6MV,value,35,0,,3682,extra-adrenal site,female,2004,yes,90,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MX,value,55,1,95,,extra-adrenal site,male,2013,no,,paraganglioma,,white,,,,,,
+TCGA-W2-A7HB,value,24,0,,604,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7HF,value,28,0,,538,adrenal gland,female,2013,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-WB-A814,value,35,0,,2252,extra-adrenal site,female,2008,no,,paraganglioma; extra-adrenal pheochromocytoma,1,black or african american,not hispanic or latino,,,,,
+TCGA-WB-A817,value,27,0,,1310,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81E,value,47,0,,1476,extra-adrenal site,female,2011,no,80,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81Q,value,44,1,755,,adrenal gland,male,1997,yes,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A820,value,40,1,309,,adrenal gland,male,2004,no,,pheochromocytoma,0,white,,,,,,
+TCGA-XG-A823,value,25,0,,614,adrenal gland,female,2013,no,90,pheochromocytoma,0,white,hispanic or latino,,,,,
+TCGA-P7-A5NX,value,78,0,,818,adrenal gland,female,2012,no,100,pheochromocytoma,,white,hispanic or latino,,,,,
+TCGA-P7-A5NY,value,21,0,,957,adrenal gland,female,2011,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-P8-A5KC,value,48,0,,883,adrenal gland,male,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-P8-A5KD,value,35,0,,123,adrenal gland,female,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-P8-A6RX,value,65,0,,540,extra-adrenal site,male,2013,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-P8-A6RY,value,55,0,,179,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-PR-A5PF,value,62,0,,546,adrenal gland,female,2011,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-PR-A5PG,value,42,0,,2485,adrenal gland,female,2007,no,100,pheochromocytoma,1,white,not hispanic or latino,,,,,
+TCGA-PR-A5PH,value,47,0,,854,adrenal gland,male,2007,no,100,pheochromocytoma,0,white,not hispanic or latino,,,,,
+TCGA-QR-A6GO,value,43,0,,1065,adrenal gland,male,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6GR,value,30,0,,703,adrenal gland,female,2009,no,,pheochromocytoma,,white,,,,,,
+TCGA-QR-A6GS,value,51,0,,38,adrenal gland,female,2007,no,,pheochromocytoma,,white,,,,,,
+TCGA-QR-A6GT,value,63,0,,4185,extra-adrenal site,female,2002,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6GW,value,53,0,,491,adrenal gland,female,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6GX,value,28,0,,579,adrenal gland,female,2011,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A6GY,value,37,0,,32,adrenal gland,female,2006,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6H0,value,53,0,,280,extra-adrenal site,male,2012,no,,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6H2,value,33,0,,302,adrenal gland,male,2003,no,,pheochromocytoma,,asian,,,,,,
+TCGA-QR-A6H3,value,41,0,,434,extra-adrenal site,male,2013,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6H4,value,56,0,,2661,adrenal gland,female,2007,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A6H5,value,30,0,,959,adrenal gland,female,2008,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A6H6,value,27,0,,474,extra-adrenal site,male,2012,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-QR-A702,value,75,0,,39,extra-adrenal site,female,2010,no,,paraganglioma,0,white,not hispanic or latino,,,,,
+TCGA-QR-A706,value,50,0,,125,extra-adrenal site,female,2012,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-QR-A707,value,43,0,,398,adrenal gland,female,2010,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A708,value,44,0,,35,adrenal gland,female,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70A,value,54,0,,2119,adrenal gland,female,2006,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70C,value,51,0,,3534,adrenal gland,female,2004,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A70E,value,31,0,,192,adrenal gland,female,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70G,value,54,0,,71,adrenal gland,male,2011,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A70H,value,36,0,,816,adrenal gland,male,2007,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70I,value,24,0,,910,extra-adrenal site,male,2010,no,,paraganglioma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A70J,value,42,0,,399,adrenal gland,female,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70K,value,61,0,,274,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70M,value,38,0,,1034,adrenal gland,male,2010,no,,pheochromocytoma,,white,,,,,,
+TCGA-QR-A70N,value,32,0,,43,adrenal gland,male,2008,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A70Q,value,33,0,,140,extra-adrenal site,male,2012,no,,paraganglioma; extra-adrenal pheochromocytoma,,white,,,,,,
+TCGA-QR-A70R,value,43,0,,432,adrenal gland,male,2012,no,,pheochromocytoma,,white,,,,,,
+TCGA-QR-A70U,value,46,0,,1473,adrenal gland,female,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70V,value,66,0,,2,adrenal gland,female,2012,no,,pheochromocytoma,,,hispanic or latino,,,,,
+TCGA-QR-A70W,value,40,0,,1271,adrenal gland,male,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-QR-A70X,value,46,0,,183,adrenal gland,female,2012,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A7IN,value,52,0,,377,adrenal gland,female,2011,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QR-A7IP,value,30,0,,546,extra-adrenal site,male,2012,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-QT-A5XJ,value,42,0,,1102,adrenal gland,female,2011,no,,pheochromocytoma,13,black or african american,not hispanic or latino,,,,,
+TCGA-QT-A5XK,value,56,0,,211,adrenal gland,female,2011,no,,pheochromocytoma,,black or african american,,,,,,
+TCGA-QT-A5XL,value,27,0,,55,adrenal gland,male,2010,no,,pheochromocytoma,,white,,,,,,
+TCGA-QT-A5XM,value,43,0,,22,adrenal gland,male,2012,no,,pheochromocytoma,,white,,,,,,
+TCGA-QT-A5XN,value,51,0,,766,adrenal gland,female,2010,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QT-A5XO,value,63,0,,70,adrenal gland,female,2012,no,,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-QT-A5XP,value,57,0,,134,adrenal gland,female,2012,no,,pheochromocytoma,0,black or african american,not hispanic or latino,,,,,
+TCGA-QT-A69Q,value,40,0,,24,adrenal gland,male,2012,no,,pheochromocytoma,0,white,not hispanic or latino,,,,,
+TCGA-QT-A7U0,value,56,0,,398,extra-adrenal site,male,2013,no,,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-RM-A68T,value,46,0,,2372,extra-adrenal site,male,2007,no,,paraganglioma,,black or african american,not hispanic or latino,,,,,
+TCGA-RM-A68W,value,41,0,,28,extra-adrenal site,female,2010,no,,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-RT-A6Y9,value,50,0,,3293,adrenal gland,female,2005,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-RT-A6YA,value,71,0,,1540,adrenal gland,female,2009,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-RT-A6YC,value,31,0,,246,adrenal gland,male,2013,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-RW-A67V,value,44,0,,2643,adrenal gland,female,2004,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A67W,value,46,0,,604,adrenal gland,female,2010,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A67X,value,47,0,,89,adrenal gland,male,2003,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A67Y,value,43,0,,216,adrenal gland,female,2011,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A680,value,57,0,,1449,extra-adrenal site,female,2011,no,,paraganglioma; extra-adrenal pheochromocytoma,0,white,,,,,,
+TCGA-RW-A681,value,56,0,,1141,adrenal gland,male,2011,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A684,value,64,0,,32,adrenal gland,female,2011,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A685,value,70,0,,26,adrenal gland,female,2012,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A686,value,62,0,,587,adrenal gland,male,2012,no,,pheochromocytoma,2,white,,,,,,
+TCGA-RW-A688,value,69,0,,37,adrenal gland,female,2013,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A689,value,58,0,,828,adrenal gland,male,2012,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A68C,value,43,0,,191,adrenal gland,male,2013,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A68D,value,31,0,,2214,adrenal gland,female,2006,no,,pheochromocytoma,,asian,,,,,,
+TCGA-RW-A7D0,value,47,0,,352,adrenal gland,female,2013,no,,pheochromocytoma,,white,,,,,,
+TCGA-RW-A8AZ,value,66,1,88,,adrenal gland,male,2013,no,,pheochromocytoma,0,white,,,,,,
+TCGA-RX-A8JQ,value,44,0,,611,extra-adrenal site,male,2013,no,100,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WL,value,59,0,,961,adrenal gland,male,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WM,value,76,0,,1112,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WN,value,40,0,,1133,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WO,value,76,0,,1080,adrenal gland,female,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WP,value,25,0,,944,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WR,value,32,0,,1238,adrenal gland,female,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WT,value,74,0,,1301,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WV,value,35,0,,849,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WW,value,34,0,,706,adrenal gland,male,2013,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7WX,value,52,0,,770,adrenal gland,male,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7X0,value,75,0,,546,extra-adrenal site,female,2013,no,100,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-S7-A7X2,value,57,0,,736,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SA-A6C2,value,46,0,,296,extra-adrenal site,female,2012,no,,paraganglioma; extra-adrenal pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-SP-A6QC,value,46,0,,3491,adrenal gland,male,2004,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SP-A6QD,value,26,0,,3323,adrenal gland,male,2004,no,100,pheochromocytoma,,,not hispanic or latino,,,,,
+TCGA-SP-A6QF,value,48,0,,2513,adrenal gland,male,2007,no,100,pheochromocytoma,,asian,not hispanic or latino,,,,,
+TCGA-SP-A6QG,value,35,0,,2417,extra-adrenal site,female,2008,no,100,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-SP-A6QI,value,47,0,,3347,adrenal gland,male,2005,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SP-A6QJ,value,64,0,,472,adrenal gland,female,2012,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SP-A6QK,value,46,0,,3384,adrenal gland,female,2005,no,90,pheochromocytoma,,asian,not hispanic or latino,,,,,
+TCGA-SQ-A6I4,value,53,0,,43,adrenal gland,male,2012,,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SQ-A6I6,value,39,0,,3,adrenal gland,male,2012,,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MP,value,30,0,,1558,adrenal gland,female,2009,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MQ,value,61,0,,2087,extra-adrenal site,female,2008,no,100,paraganglioma,,asian,not hispanic or latino,,,,,
+TCGA-SR-A6MS,value,35,0,,2492,adrenal gland,female,2007,no,100,pheochromocytoma,,white,,,,,,
+TCGA-SR-A6MT,value,57,0,,3247,adrenal gland,female,2004,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MU,value,49,0,,3362,adrenal gland,female,2004,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MY,value,54,0,,750,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6MZ,value,46,0,,797,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-SR-A6N0,value,45,0,,1509,adrenal gland,female,2010,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-TT-A6YJ,value,45,0,,132,adrenal gland,female,2011,no,,pheochromocytoma,,,,,,,,
+TCGA-TT-A6YK,value,61,0,,1136,extra-adrenal site,male,2011,no,100,paraganglioma; extra-adrenal pheochromocytoma,0,white,not hispanic or latino,,,,,
+TCGA-TT-A6YN,value,37,0,,606,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-TT-A6YO,value,64,0,,405,adrenal gland,female,2013,no,90,pheochromocytoma,,black or african american,not hispanic or latino,,,,,
+TCGA-TT-A6YP,value,19,0,,1292,adrenal gland,female,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7H5,value,25,0,,611,adrenal gland,female,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7H7,value,59,0,,522,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7HA,value,63,0,,36,adrenal gland,female,2011,no,,pheochromocytoma,,american indian or alaska native,not hispanic or latino,,,,,
+TCGA-W2-A7HC,value,67,0,,439,adrenal gland,male,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7HD,value,76,0,,561,adrenal gland,female,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7HE,value,80,0,,505,adrenal gland,male,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7HH,value,69,0,,779,extra-adrenal site,female,2012,no,,paraganglioma,,white,not hispanic or latino,,,,,
+TCGA-W2-A7UY,value,44,0,,450,adrenal gland,female,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80K,value,49,0,,1255,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80L,value,30,0,,1042,adrenal gland,female,2012,no,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80M,value,63,0,,136,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80N,value,54,0,,144,adrenal gland,male,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80O,value,83,0,,776,adrenal gland,female,2013,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80P,value,20,0,,9634,extra-adrenal site,male,1988,yes,,paraganglioma; extra-adrenal pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80Q,value,64,0,,3880,adrenal gland,female,2003,no,90,pheochromocytoma,1,white,not hispanic or latino,,,,,
+TCGA-WB-A80V,value,63,0,,887,adrenal gland,female,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A80Y,value,59,1,596,,adrenal gland,female,2011,no,,pheochromocytoma,0,white,not hispanic or latino,,,,,
+TCGA-WB-A815,value,68,0,,1630,adrenal gland,female,2010,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A816,value,42,0,,1254,adrenal gland,female,2010,no,,pheochromocytoma,,white,hispanic or latino,,,,,
+TCGA-WB-A818,value,37,0,,1288,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A819,value,36,0,,1031,adrenal gland,male,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81A,value,65,0,,735,adrenal gland,female,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81D,value,82,0,,1090,adrenal gland,female,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81F,value,40,0,,1737,adrenal gland,male,2009,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81G,value,25,0,,1179,adrenal gland,male,2011,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81H,value,44,0,,1946,adrenal gland,female,2009,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81I,value,64,0,,679,adrenal gland,male,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81J,value,40,0,,741,adrenal gland,male,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81K,value,45,0,,1218,adrenal gland,male,2010,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81M,value,42,0,,1394,adrenal gland,female,2010,no,100,pheochromocytoma,,white,,,,,,
+TCGA-WB-A81N,value,28,0,,1887,adrenal gland,female,2010,no,80,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81P,value,73,0,,395,adrenal gland,female,2011,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81R,value,55,0,,49,adrenal gland,female,2012,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81S,value,59,0,,723,adrenal gland,female,2012,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81T,value,45,0,,776,adrenal gland,male,2013,no,100,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81V,value,57,0,,2161,adrenal gland,male,2006,no,,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A81W,value,41,0,,2379,adrenal gland,male,2007,no,,pheochromocytoma,0,white,not hispanic or latino,,,,,
+TCGA-WB-A821,value,73,0,,2832,adrenal gland,female,2006,no,70,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-WB-A822,value,23,0,,3138,adrenal gland,male,2006,yes,90,pheochromocytoma,,white,not hispanic or latino,,,,,
+TCGA-OR-A5K0,value,69,0,,1029,adrenal,female,2009,no,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5KP,value,45,0,,2777,adrenal,female,2006,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5L5,value,77,0,,1317,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage i,t1,n0,,r0
+TCGA-OR-A5LB,value,59,1,1204,,adrenal,male,2006,yes,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t4,n0,,r0
+TCGA-P6-A5OG,value,45,1,383,,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage iv,t4,n0,,r2
+TCGA-PK-A5HB,value,63,0,,1293,adrenal,male,2003,yes,,adrenocortical carcinoma- usual type,,,,,,,,
+TCGA-OR-A5J1,value,58,1,1355,,adrenal,male,2000,no,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5J2,value,44,1,1677,,adrenal,female,2004,no,,adrenocortical carcinoma- usual type,0,white,hispanic or latino,stage iv,t3,n0,,r2
+TCGA-OR-A5J3,value,23,0,,2091,adrenal,female,2008,no,,adrenocortical carcinoma- usual type,0,white,hispanic or latino,stage iii,t3,n0,,r0
+TCGA-OR-A5J4,value,23,1,423,,adrenal,female,2000,no,,adrenocortical carcinoma- usual type,2,white,hispanic or latino,stage iv,t3,n1,,r2
+TCGA-OR-A5J5,value,30,1,365,,adrenal,male,2000,no,,adrenocortical carcinoma- usual type,,white,hispanic or latino,stage iii,t4,n0,,r2
+TCGA-OR-A5J6,value,29,0,,2703,adrenal,female,2006,no,,adrenocortical carcinoma- usual type,,black or african american,hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5J7,value,30,1,490,,adrenal,female,2009,no,,adrenocortical carcinoma- usual type,0,white,hispanic or latino,stage iii,t3,n0,,r1
+TCGA-OR-A5J8,value,66,1,579,,adrenal,male,2011,yes,,adrenocortical carcinoma- usual type,0,white,hispanic or latino,stage iii,t3,n0,,r0
+TCGA-OR-A5J9,value,22,0,,1352,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5JA,value,53,1,922,,adrenal,female,2004,no,,adrenocortical carcinoma- usual type,,white,,stage iv,t4,n0,,r1
+TCGA-OR-A5JB,value,52,1,551,,adrenal,male,2000,,,adrenocortical carcinoma- usual type,,white,,stage iv,t4,n0,,r1
+TCGA-OR-A5JC,value,37,1,1750,,adrenal,male,2001,,,adrenocortical carcinoma- usual type,,white,,,,,,
+TCGA-OR-A5JD,value,57,0,,3038,adrenal,female,2005,no,,adrenocortical carcinoma- oncocytic type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JE,value,17,1,2105,,adrenal,female,2005,no,,adrenocortical carcinoma- usual type,,white,,stage i,t1,n0,,r0
+TCGA-OR-A5JF,value,69,0,,2015,adrenal,female,2007,yes,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JG,value,61,1,541,,adrenal,male,2008,,,adrenocortical carcinoma- usual type,6,white,,stage iv,t4,n1,,r1
+TCGA-OR-A5JH,value,32,0,,2110,adrenal,female,2008,no,,adrenocortical carcinoma- oncocytic type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JI,value,22,0,,2331,adrenal,male,2008,no,,adrenocortical carcinoma- usual type,,white,,stage i,t1,n0,,r0
+TCGA-OR-A5JJ,value,65,1,490,,adrenal,male,2009,no,,adrenocortical carcinoma- usual type,6,white,,stage iv,t4,n1,,r2
+TCGA-OR-A5JK,value,49,0,,1497,adrenal,male,2009,yes,,adrenocortical carcinoma- usual type,,white,,stage iv,t4,n0,,r2
+TCGA-OR-A5JL,value,36,0,,2056,adrenal,female,2009,no,,adrenocortical carcinoma- usual type,,white,,stage i,t1,n0,,r0
+TCGA-OR-A5JM,value,25,1,562,,adrenal,female,2011,yes,,adrenocortical carcinoma- usual type,,white,,stage iv,t4,n0,,r1
+TCGA-OR-A5JO,value,26,0,,1194,adrenal,female,2005,no,,adrenocortical carcinoma- usual type,,white,,stage i,t1,n0,,r0
+TCGA-OR-A5JP,value,40,0,,464,adrenal,male,2012,no,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JQ,value,26,0,,1103,adrenal,female,2006,no,,adrenocortical carcinoma- myxoid type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JR,value,45,0,,3688,adrenal,male,2002,no,,adrenocortical carcinoma- usual type,,white,,stage i,t1,n0,,r0
+TCGA-OR-A5JS,value,65,0,,383,adrenal,female,2011,yes,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JT,value,65,0,,907,adrenal,female,2011,yes,,adrenocortical carcinoma- usual type,0,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JU,value,58,1,289,,adrenal,female,2010,yes,,adrenocortical carcinoma- usual type,,white,,stage iii,t3,n0,,r0
+TCGA-OR-A5JV,value,55,0,,2023,adrenal,male,2008,no,,adrenocortical carcinoma- usual type,0,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JW,value,47,0,,2202,adrenal,male,2008,yes,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5JX,value,50,0,,950,adrenal,male,2009,yes,,adrenocortical carcinoma- usual type,0,white,,stage iii,t3,n0,,r0
+TCGA-OR-A5JY,value,68,1,552,,adrenal,female,2011,yes,,adrenocortical carcinoma- usual type,1,white,,stage iv,t4,n1,,r2
+TCGA-OR-A5JZ,value,60,0,,822,adrenal,male,2011,yes,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5K1,value,48,0,,3289,adrenal,male,2006,no,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,rx
+TCGA-OR-A5K2,value,32,1,994,,adrenal,female,2010,yes,,adrenocortical carcinoma- usual type,0,white,,stage iii,t4,n0,,r0
+TCGA-OR-A5K3,value,53,0,,3465,adrenal,male,2005,no,,adrenocortical carcinoma- oncocytic type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5K4,value,64,0,,1082,adrenal,female,2011,yes,,adrenocortical carcinoma- usual type,,white,,stage iii,t4,n0,,r1
+TCGA-OR-A5K5,value,59,1,498,,adrenal,female,2012,yes,,adrenocortical carcinoma- usual type,0,white,,stage iii,t3,n0,,r0
+TCGA-OR-A5K6,value,56,0,,1493,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5K8,value,39,0,,749,adrenal,male,2012,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5K9,value,61,1,344,,adrenal,female,2002,no,,adrenocortical carcinoma- usual type,,white,,stage ii,t2,n0,,r0
+TCGA-OR-A5KB,value,61,0,,741,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5KO,value,39,0,,1414,adrenal,female,2009,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t4,n0,,r0
+TCGA-OR-A5KQ,value,20,0,,2677,adrenal,female,2006,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5KS,value,72,0,,2549,adrenal,male,2006,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5KT,value,44,0,,2895,adrenal,female,2006,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage i,t1,n0,,r0
+TCGA-OR-A5KU,value,37,0,,4673,adrenal,female,2000,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5KV,value,17,0,,3878,adrenal,female,2003,yes,,adrenocortical carcinoma- usual type,1,white,not hispanic or latino,stage iii,t2,n1,,r0
+TCGA-OR-A5KW,value,55,0,,2076,adrenal,female,2009,yes,,adrenocortical carcinoma- usual type,8,white,not hispanic or latino,stage iii,t2,n1,,r0
+TCGA-OR-A5KX,value,25,0,,1364,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iii,t2,n1,,r0
+TCGA-OR-A5KY,value,23,1,391,,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,52,white,not hispanic or latino,stage iv,t4,n1,,r2
+TCGA-OR-A5KZ,value,42,1,125,,adrenal,male,2012,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,rx
+TCGA-OR-A5L1,value,37,0,,1781,adrenal,female,2000,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5L2,value,83,1,1852,,adrenal,female,2001,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5L3,value,67,0,,4628,adrenal,female,2000,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage i,t1,n0,,r0
+TCGA-OR-A5L4,value,48,0,,967,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iii,t4,n0,,rx
+TCGA-OR-A5L6,value,60,0,,861,adrenal,male,2011,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5L8,value,36,0,,885,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5L9,value,53,0,,871,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5LA,value,52,0,,719,adrenal,female,2012,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5LC,value,71,1,159,,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t4,n0,,r2
+TCGA-OR-A5LD,value,52,1,1197,,adrenal,male,1998,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iii,t4,n0,,rx
+TCGA-OR-A5LE,value,14,1,662,,adrenal,male,1997,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5LF,value,74,1,445,,adrenal,female,2002,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iii,t3,n0,,r0
+TCGA-OR-A5LG,value,46,0,,1589,adrenal,male,2008,no,,adrenocortical carcinoma- usual type,0,white,not hispanic or latino,stage iii,t3,n0,,rx
+TCGA-OR-A5LH,value,36,1,2385,,adrenal,female,2005,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-OR-A5LI,value,42,1,436,,adrenal,female,1998,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t4,n0,,r2
+TCGA-OR-A5LJ,value,54,1,1105,,adrenal,female,2005,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t2,n1,,r2
+TCGA-OR-A5LK,value,62,0,,2740,adrenal,male,2007,no,,adrenocortical carcinoma- oncocytic type,,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LL,value,75,1,1613,,adrenal,female,2007,no,,adrenocortical carcinoma- usual type,0,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LM,value,23,0,,1858,adrenal,male,2008,no,,adrenocortical carcinoma- usual type,0,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LN,value,31,0,,2342,adrenal,female,2008,no,,adrenocortical carcinoma- usual type,0,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LO,value,61,1,2405,,adrenal,female,2008,no,,adrenocortical carcinoma- usual type,0,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LP,value,37,0,,1857,adrenal,female,2009,no,,adrenocortical carcinoma- usual type,0,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LR,value,30,0,,853,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LS,value,34,0,,1096,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,,,,stage ii,t2,n0,,r0
+TCGA-OR-A5LT,value,57,0,,549,adrenal,male,2012,no,,adrenocortical carcinoma- usual type,0,,,stage iii,t3,n0,,r0
+TCGA-OU-A5PI,value,53,0,,1171,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,3,white,not hispanic or latino,stage iv,t2,n1,,
+TCGA-P6-A5OF,value,55,1,207,,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iii,t4,n0,,rx
+TCGA-P6-A5OH,value,59,1,0,,adrenal,female,2010,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage iv,t4,n0,,r2
+TCGA-PA-A5YG,value,51,0,,756,adrenal,male,2012,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-PK-A5H8,value,42,0,,3623,adrenal,male,2004,no,,adrenocortical carcinoma- usual type,,white,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-PK-A5H9,value,27,0,,616,adrenal,female,2012,no,,adrenocortical carcinoma- usual type,,asian,not hispanic or latino,stage ii,t2,n0,,r0
+TCGA-PK-A5HA,value,63,0,,1201,adrenal,male,2011,no,,adrenocortical carcinoma- usual type,0,,,stage i,t1,n0,,r0
+TCGA-PK-A5HC,value,44,0,,679,adrenal,female,2011,no,,adrenocortical carcinoma- usual type,0,asian,not hispanic or latino,stage iii,t4,n0,,r1
