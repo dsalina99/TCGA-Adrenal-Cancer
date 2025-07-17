@@ -1,4 +1,5 @@
 Biclustering package used: https://github.com/nikitasigal/biclustlib
+Only Clinical Data is provided, utilize TCGA2STAT python package to obtain Gene Expression matrix (bulk RNA-seq) from the patients.
 
 ## Characterizing Adrenal Cancer Patients Using Gene Patterns Biclustering Methods
 # Abstract
